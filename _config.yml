@@ -1,0 +1,23 @@
+# Site settings
+title: Black November
+client:
+  name: Black November
+  link: "#client-name"
+core-se-link: https://www.secretescapes.com/current-sales
+description:
+
+# file paths
+url:     "http://mp.secretescapes.com" # the base hostname & protocol for your site
+baseurl: "/blacknovember" # the subpath of your site, e.g. /blog/
+img:     "/blacknovember/_assets/img"
+css:     "/blacknovember/_assets/css"
+js:      "/blacknovember/_assets/js"
+
+
+# Build settings
+markdown: kramdown
+exclude: [node_modules, gulpfile.js, package.json, package-lock.json, js/script.js]
+keep_files: [_assets]
+sass:
+    sass_dir: css
+    style: compressed

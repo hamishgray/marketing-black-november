@@ -1,0 +1,8 @@
+
+
+- type: video
+  id: trailer
+  youtube-id: fMkiSqBraD0
+  pages:
+    - id: all
+

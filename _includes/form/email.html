@@ -1,0 +1,2 @@
+{% assign this = include.data %}
+<input type="email" id="{{form.id}}-{{this.id}}" name="{{this.id}}" class="c-input-field" autocapitalize="none" autocorrect="off"{% if this.required %} data-required{% endif %}>
