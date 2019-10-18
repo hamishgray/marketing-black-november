@@ -8,10 +8,10 @@ description:
 
 # file paths
 url:     "http://mp.secretescapes.com" # the base hostname & protocol for your site
-baseurl: "/blacknovember" # the subpath of your site, e.g. /blog/
-img:     "/blacknovember/_assets/img"
-css:     "/blacknovember/_assets/css"
-js:      "/blacknovember/_assets/js"
+baseurl: "/2019/blacknovember" # the subpath of your site, e.g. /blog/
+img:     "/2019/blacknovember/_assets/img"
+css:     "/2019/blacknovember/_assets/css"
+js:      "/2019/blacknovember/_assets/js"
 
 
 # Build settings

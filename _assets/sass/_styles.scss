@@ -1,1 +1,68 @@
 // general styles for the project that wouldn't be a reuseable component
+
+
+.page-bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: $z-content;
+  background-color: $black;
+  @include background-attributes;
+  z-index: 0;
+  &:after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0; right: 0;
+    height: 200px;
+    background: -moz-linear-gradient(bottom,  rgba(17,28,38,1) 0%, rgba($black,0) 100%);
+    background: -webkit-linear-gradient(bottom,  rgba($black,1) 0%,rgba($black,0) 100%);
+    background: linear-gradient(to top,  rgba($black,1) 0%,rgba($black,0) 100%);
+  }
+}
+
+
+.bokeh {
+  position: absolute;
+  top: 0; left: 0;
+  right: 0; bottom: 0;
+  z-index: 1; pointer-events: none;
+  &__block {
+    position: absolute;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  &--l1 {
+    left: 50%; margin-left: -700px; top: 0;
+    width: 336px; height: 469px;
+    background-image: url('../img/content/bokeh-left-sm.png');
+  }
+  &--l2 {
+    left: 50%; margin-left: -900px; top: 0;
+    width: 351px; height: 831px;
+    background-image: url('../img/content/bokeh-left-md.png');
+  }
+  &--l3 {
+    left: 50%; margin-left: -1200px; top: 100px;
+    width: 470px; height: 672px;
+    background-image: url('../img/content/bokeh-left-lg.png');
+  }
+  &--r1 {
+    right: 50%; margin-right: -900px; top: 200px;
+    width: 517px; height: 623px;
+    background-image: url('../img/content/bokeh-right-sm.png');
+  }
+  &--r2 {
+    right: 50%; margin-right: -800px; top: 0;
+    width: 476px; height: 622px;
+    background-image: url('../img/content/bokeh-right-md.png');
+  }
+  &--r3 {
+    right: 50%; margin-right: -1100px; top: 0;
+    width: 374px; height: 585px;
+    background-image: url('../img/content/bokeh-right-lg.png');
+  }
+}

@@ -3,19 +3,19 @@
   display: inline-block;
   padding: $s0 $s4;
   color: $white;
-  font-weight: 700;
-  font-size: $s-1;
+  font-weight: 600;
+  font-size: 14px;
   text-align: center;
   text-transform: uppercase;
-  letter-spacing: .2em;
+  letter-spacing: .1em;
   border-radius: 3px;
   background-color: $orange;
   cursor: pointer;
   @include transition;
   &:hover { background-color: $orange-dark; }
 
-  &--sm { padding: $s0 $s3; font-size: $s-2; }
-  &--lg { padding: $s2 $s6; font-size: $s-1; }
+  &--sm { padding: $s0 $s3; font-size: 13px; }
+  &--lg { padding: $s1 $s6; font-size: 16px; }
   &--orange { background-color: $orange;
     &:hover { background-color: $orange-dark; }
   }

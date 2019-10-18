@@ -27,7 +27,7 @@ function browserSyncServe() {
     server: {
       baseDir: '_site/',
       routes: {
-        '/blacknovember': '_site/'
+        '/2019/blacknovember': '_site/'
       }
     }
   });

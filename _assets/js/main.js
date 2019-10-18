@@ -24,3 +24,30 @@ $(document).ready(function(){
   $('.js-utm-campaign-field').val( queryString('utm_campaign') );
 
 });
+
+
+
+
+///////////////////////////////////////
+//   BOKEH PARALLAX EFFECT
+///////////////////////////////////////
+
+function parallax(){
+	var scrolled = $(document).scrollTop();
+  var windowHeight = $(window).height();
+  $('.js-bokeh').each(function(){
+    var speed  = $(this).data('speed');
+    var offset = (scrolled/10) * speed;
+    $(this).css({
+      "margin-top": offset,
+      "opacity": 1-(scrolled / windowHeight)
+    });
+  });
+}
+
+parallax();
+$(document).scroll(function() {
+	parallax();
+});
+
+
