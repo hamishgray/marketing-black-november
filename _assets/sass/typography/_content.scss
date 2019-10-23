@@ -11,8 +11,9 @@ sup {
 // standard inline link style
 a[href]:not([class]),
 a.link {
-  color: $black;
+  color: $white;
   font-weight: 500;
+  text-decoration: underline;
   @include transition;
   &:hover { color: $orange; }
 }
