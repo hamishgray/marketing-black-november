@@ -47,21 +47,3 @@ if ("ontouchstart" in document.documentElement){
 $('.js-toggle-mobile-nav').on('click', function(e) {
   $('.mobile-nav').toggleClass('is-open').toggleClass('is-closed');
 });
-
-
-
-
-///////////////////////////////////////
-//   Query string searcher
-///////////////////////////////////////
-
-function queryString(sParam){
-  var sPageURL = window.location.search.substring(1);
-  var sURLVariables = sPageURL.split("&");
-  for (var i = 0; i < sURLVariables.length; i++){
-    var sParameterName = sURLVariables[i].split("=");
-    if (sParameterName[0] == sParam){
-      return sParameterName[1];
-    }
-  }
-}

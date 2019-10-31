@@ -1,41 +1,42 @@
 
 
-- title: Pennyhill Park
-  location: Bagshot, Surrey
-  description: Five-star spa hotel in a prestigious Surrey location.
-  price: 219
-  price-description: per suite per night
-  saved: 27
-  expires: 2019/07/03
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/99947/a14985a1_839f_4429_b6d9_93879e29ea1d.jpg?auto=format,compress
-  link: https://www.secretescapes.com/
+- title: "Nur 72h: 5*-Suitenluxus auf Lanzarote"
+  location: Arrecife Gran Hotel & Spa, Lanzarote, Kanarische Inseln, Spanien
+  description: Inselurlaub für Anspruchsvolle inkl. Flügen, Privattransfers, Halbpension & Spa-Extras
+  price: 565
+  price-description: pro Person. basierend auf 2 Personen für 7 Nächte
+  saved: 28
+  expires: 2019/11/04
+  image: https://d2g6qre7voj6kv.cloudfront.net/inHousePackages/46/10d9de2c_4c03_4eef_ba5e_757f3f3e9b65.jpg?auto=format,compress
+  link: https://www.secretescapes.de/nur7h-arrecife-gran-hotel-and-spa-lanzarote-kanarische-inseln-spanien-de/sale-ihp
 
-- title: Appleby Manor Hotel & Garden Spa
-  location: Appleby-in-Westmorland
-  description: Lake District views, Rosette dining and a spa.
-  price: 99
-  price-description: per room per night
-  saved: 35
-  expires: 2019/07/27
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/49086/6aef07c6_715c_40c2_81b4_91bfb194f528.jpg?auto=format,compress
-  link: https://www.secretescapes.com/
+- title: "Nur 72h: Traumhaftes Tropeninsel-Duo"
+  location: Réunion & Mauritius
+  description: Inselparadiese zum Verlieben – inkl. Flügen, Mietwagen auf Réunion, Privattransfers & Extras
+  price: 1749
+  price-description: pro Person. basierend auf 2 Personen für 7 Nächte
+  saved: 22
+  expires: 2019/11/04
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/66126/f32455cd_1071_452c_86c4_deee5cb5231b.jpg?auto=format,compress
+  link: https://www.secretescapes.de/depkg-zd-t15-combi-72h-reunion-mw-and-mauritius-311019-balaclava-fort-coastal-road-ville-valio-balaclava-mauritius/sale
 
-- title: Pennyhill Park
-  location: Bagshot, Surrey
-  description: Five-star spa hotel in a prestigious Surrey location.
-  price: 219
-  price-description: per suite per night
-  saved: 27
-  expires: 2019/07/03
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/99947/a14985a1_839f_4429_b6d9_93879e29ea1d.jpg?auto=format,compress
-  link: https://www.secretescapes.com/
+- title: "Nur 72h: Luxus im Spa-Resort auf Ko Samui"
+  location: InterContinental Koh Samui Resort, Ko Samui, Thailand
+  description: Inkl. Frühstück, Zugang zur exklusiven Club Lounge, Massage & Extras
+  price: 250
+  price-description: pro Unterkunft pro Nacht
+  saved: 42
+  expires: 2019/11/04
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/101222/97590657_0de4_432e_8779_ac65653e95d1.jpg?auto=format,compress
+  link: https://www.secretescapes.de/intercontinental-koh-samui-resort-koh-samui-thailand/sale
 
-- title: Appleby Manor Hotel & Garden Spa
-  location: Appleby-in-Westmorland
-  description: Lake District views, Rosette dining and a spa.
-  price: 99
-  price-description: per room per night
-  saved: 35
-  expires: 2019/07/27
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/49086/6aef07c6_715c_40c2_81b4_91bfb194f528.jpg?auto=format,compress
-  link: https://www.secretescapes.com/
+- title: "Nur 72h: Traumhafte Seychellen-Auszeit"
+  location: Mahé Insel, Seychellen, Afrika
+  description: Inseltörn mit neuem Boot & Strandhotel inkl. Flügen, Transfers, Vollpension an Bord & Extras
+  price: 2748
+  price-description: pro Person. Basierend auf 2 Personen für 9 Nächte
+  saved: 22
+  expires: 2019/11/04
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/60592/abe5fae8_5512_45ca_b6f4_9b69732e11cf.jpg?auto=format,compress
+  link: https://www.secretescapes.de/depkg-zd-core-exp-72h-seychellen-katamaran-und-baden-311019-mahe-insel-seychellen/sale
+

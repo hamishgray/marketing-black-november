@@ -130,10 +130,10 @@ $offer-max-width: 560px;
     line-height: 1;
     letter-spacing: -.02em;
   }
-  @include bp($sm) {
+  @include bp($md) {
     &__arrow { display: block; }
   }
-  @include bp($md) {
+  @include bp($sm) {
     &__bottom-right { align-self: center; }
     &__saved        { min-width: 130px; } // bit of a magic number, basically keeps the saved label & percent on the same line
     &__saved-label  { display: inline-block; }

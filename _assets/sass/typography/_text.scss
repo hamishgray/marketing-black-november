@@ -2,11 +2,15 @@
 
 .text {
   // sizes
-  &--xxxl { font-size: 1.4rem; letter-spacing: 0; }
-  &--xxl { font-size: 1.2rem; letter-spacing: 0; }
+  &--xxxl { font-size: 1.1rem; letter-spacing: 0; }
+  &--xxl { font-size: 1.1rem; letter-spacing: 0; }
   &--xl  { font-size: 1.1rem; letter-spacing: 0; }
   &--lg  { font-size: 1.05rem; letter-spacing: 0; }
   &--sm  { font-size: .9rem; }
+  @include bp($lg) {
+    &--xxxl { font-size: 1.4rem; letter-spacing: 0; }
+    &--xxl { font-size: 1.2rem; letter-spacing: 0; }
+  }
 
   // styles
   &--italic       { font-style: italic; }
@@ -30,5 +34,7 @@
     &--bp-center { text-align: center; }
   }
 
-  &--display { font-family: $display; font-weight: 500; line-height: 1.4; }
+  @include bp($lg) {
+    &--display { font-family: $display; font-weight: 500; line-height: 1.4; }
+  }
 }

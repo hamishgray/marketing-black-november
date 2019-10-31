@@ -3,6 +3,23 @@
 
 
 /* ======================================================================
+   Query string searcher
+   ====================================================================== */
+
+function queryString(sParam){
+  var sPageURL = window.location.search.substring(1);
+  var sURLVariables = sPageURL.split("&");
+  for (var i = 0; i < sURLVariables.length; i++){
+    var sParameterName = sURLVariables[i].split("=");
+    if (sParameterName[0] == sParam){
+      return sParameterName[1];
+    }
+  }
+}
+
+
+
+/* ======================================================================
    Assign URL params to SE links, and form for tracking through affiliate
    ====================================================================== */
 
@@ -10,18 +27,25 @@ $(document).ready(function(){
 
   var urlParams = window.location.search.substring(1);
 
-  $('.js-add-affiliate').each(function(){
-    var oldUrl = $(this).attr("href");
-    var newUrl = oldUrl + "?" + urlParams;
-    $(this).attr("href", newUrl);
-  });
-
-  $('.js-affiliate-field').val( queryString('affiliate') );
-  $('.js-saff-field').val( queryString('saff') );
-  $('.js-utm-medium-field').val( queryString('utm_medium') );
-  $('.js-utm-source-field').val( queryString('utm_source') );
-  $('.js-utm-content-field').val( queryString('utm_content') );
-  $('.js-utm-campaign-field').val( queryString('utm_campaign') );
+  if( queryString('affiliate') ){
+    $('.js-add-affiliate').each(function(){
+      var oldUrl = $(this).attr("href");
+      var newUrl = oldUrl + "?" + urlParams;
+      $(this).attr("href", newUrl);
+    });
+  }else if( urlParams ){
+    $('.js-add-affiliate').each(function(){
+      var oldUrl = $(this).attr("href");
+      var newUrl = oldUrl + "?" + urlParams + "&affiliate=blacknov-comp-de";
+      $(this).attr("href", newUrl);
+    });
+  }else{
+    $('.js-add-affiliate').each(function(){
+      var oldUrl = $(this).attr("href");
+      var newUrl = oldUrl + "?affiliate=blacknov-comp-de";
+      $(this).attr("href", newUrl);
+    });
+  }
 
 });
 
