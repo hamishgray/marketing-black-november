@@ -1,42 +1,43 @@
 
 
-- title: "Winter-Special: Wellness in Bestlage am Titisee"
-  location: Boutique-Hotel Alemannenhof, Hinterzarten am Titisee, Baden-Württemberg, Deutschland
-  description: Alemannische Gastlichkeit – inkl. Halbpension mit Feinschmecker-Dinner & Wellness-Zugang
-  price: 184
+- title: Thailands pulsierendes Leben & Kultur
+  location: Bangkok, Chiang Mai, Koh Chang - Thailand
+  description: Inkl. Flügen, Privattransfers, Frühstück, Extras & optionaler Privattour in Chiang Mai
+  price: 1359
+  price-description: pro Person basierend auf 2 Personen für 10 Nächte
+  saved: 22
+  expires: 2019/11/25
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/105056/b79ea653_ee5a_4c4f_aabd_246dd36e9b5e.jpg?auto=format,compress
+  link: https://www.secretescapes.de/depkg-zd-t15-combi-bangkok-chiang-mai-koh-chang-111119-koh-chang-thailand/sale
+
+- title: "Frühbucher-Special: Inseltraum & Spa in Kroatien"
+  location: Hotel Bellevue, Mali, Lošinj, Kvarner-Bucht, Kroatien
+  description: Sonnenstunden auf der Insel Lošinj – inkl. Frühstück, Spa-Zugang, Fitness-Programm & Extras
+  price: 129
   price-description: pro Zimmer pro Nacht
-  saved: 32
-  expires: 2019/11/18
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/60008/b575b5bf_c0cc_4ca6_a440_50a9560fcc82.jpg?auto=format,compress
-  link: https://www.secretescapes.de/boutique-hotel-alemannenhof-hinterzarten-am-titisee-germany/sale
+  saved: 56
+  expires: 2019/11/25
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/75439/4625de37_5aef_442a_9a1f_c184ebf389ee.jpg?auto=format,compress
+  link: https://www.secretescapes.de/hotel-bellevue-losinj-losinj-croatia/sale
 
-- title: "Winter-Special: Wellness & Ski im Engadin"
-  location: Chasa Montana Hotel & Spa, Samnaun, Graubünden, Schweiz
-  description: An der Skiarena Samnaun-Ischgl inkl. Frühstück & 5-Gänge-Dinner, Spa-Zugang & Extras
-  price: 240
-  price-description: pro Unterkunft pro Nacht
-  saved: 47
-  expires: 2019/11/18
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/79081/b485dabb_483a_4cdb_8ede_fd7cc6cef73a.jpg?auto=format,compress
-  link: https://www.secretescapes.de/chasa-montana-hotel-and-spa-switzerland-samnaun-switzerland-uk/sale
-
-- title: "Winter-Special: Wikinger-Flair & Islands Natur"
-  location: Hotel Viking, Hafnarfjördur bei Reykjavík, Island
-  description: Kurztrip zu Islands magischen Highlights – inkl. Flügen, Transfers, Frühstück & Ausflügen
-  price: 499
-  price-description: pro Person basierend auf 2 Personen für 3 Nächte
-  saved: 26
-  expires: 2019/11/18
-  image: https://d2g6qre7voj6kv.cloudfront.net/inHousePackages/642/d9890e6a_e2d6_4bb6_964e_77ed69d1d93a.jpg?auto=format,compress
-  link: https://www.secretescapes.de/hotel-viking-iceland-hafnarjordur-island-de-1/sale-ihp
-
-- title: "Winter-Special: Minimalismus & Opulenz in Prag"
-  location: Urban Crème, Prag, Tschechische Republik
-  description: Puristischer Style in modernem 5*-Hotel – inkl. Frühstück, 1 Flasche Wein & Extras
-  price: 85
+- title: Frühbucher-Special am malerischen Gardasee
+  location: Hotel Villa Galeazzi, Barbarano di Salò, Brescia, Italien
+  description: Renovierte Villa mit Ambiente – inkl. Frühstück & Begrüßungsgetränk
+  price: 84
   price-description: pro Zimmer pro Nacht
-  saved: 38
-  expires: 2019/11/18
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/90692/af136ae4_a6fd_4699_b716_62704d42ec68.jpg?auto=format,compress
-  link: https://www.secretescapes.de/urban-creme-hotel-prague-czech-republic/sale
+  saved: 46
+  expires: 2019/11/25
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/94002/e86ffa77_479b_4ab5_a9d9_c93a4d15e71c.jpg?auto=format,compress
+  link: https://www.secretescapes.de/hotel-villa-galeazzi-lake-garda-italy/sale
+
+- title: Frühbucher-Special an Kalabriens Götterküste
+  location: Infinity Resort Tropea, Parghelia, Kalabrien, Italien
+  description: Entspannung pur – inkl. Frühstück, Begrüßungsgetränk, Zugang zum Privatstrand & Extras
+  price: 79
+  price-description: pro Zimmer pro Nacht
+  saved: 50
+  expires: 2019/11/25
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/58369/e9d6ac9f_fa4e_4b7f_8fb5_e6f087edaa0d.jpg?auto=format,compress
+  link: https://www.secretescapes.de/infinity-resort-tropea-calabria-italy2/sale
+
 
