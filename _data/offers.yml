@@ -1,43 +1,42 @@
 
 
-- title: Thailands pulsierendes Leben & Kultur
-  location: Bangkok, Chiang Mai, Koh Chang - Thailand
-  description: Inkl. Flügen, Privattransfers, Frühstück, Extras & optionaler Privattour in Chiang Mai
-  price: 1359
-  price-description: pro Person basierend auf 2 Personen für 10 Nächte
-  saved: 22
-  expires: 2019/11/25
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/105056/b79ea653_ee5a_4c4f_aabd_246dd36e9b5e.jpg?auto=format,compress
-  link: https://www.secretescapes.de/depkg-zd-t15-combi-bangkok-chiang-mai-koh-chang-111119-koh-chang-thailand/sale
-
-- title: "Frühbucher-Special: Inseltraum & Spa in Kroatien"
-  location: Hotel Bellevue, Mali, Lošinj, Kvarner-Bucht, Kroatien
-  description: Sonnenstunden auf der Insel Lošinj – inkl. Frühstück, Spa-Zugang, Fitness-Programm & Extras
-  price: 129
+- title: "Spa-Special: Ski- & Wellnessmomente im Allgäu"
+  location: Dein Engel, Oberstaufen, Oberallgäu, Bayern, Deutschland
+  description: Inkl. Halbpension, Wellness-Zugang, Begrüßungsgetränk, Teilnahme am Sportprogramm & Extras
+  price: 209
   price-description: pro Zimmer pro Nacht
-  saved: 56
-  expires: 2019/11/25
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/75439/4625de37_5aef_442a_9a1f_c184ebf389ee.jpg?auto=format,compress
-  link: https://www.secretescapes.de/hotel-bellevue-losinj-losinj-croatia/sale
+  saved: 44
+  expires: 2019/12/02
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/104849/56f38aef_e171_4a43_b025_37040bb2fea0.jpg?auto=format,compress
+  link: https://www.secretescapes.de/dein-engel-oberstaufen-germany-2/sale
 
-- title: Frühbucher-Special am malerischen Gardasee
-  location: Hotel Villa Galeazzi, Barbarano di Salò, Brescia, Italien
-  description: Renovierte Villa mit Ambiente – inkl. Frühstück & Begrüßungsgetränk
-  price: 84
+- title: Spa-Special für Entschleunigung am Gardasee
+  location: Hotel Acquaviva del Garda, Desenzano del Garda, Lombardei, Italien
+  description: Traumhafte Aussichten am Gardasee inkl. Frühstück, täglichem Spa-Zugang & vielen Extras
+  price: 105
   price-description: pro Zimmer pro Nacht
-  saved: 46
-  expires: 2019/11/25
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/94002/e86ffa77_479b_4ab5_a9d9_c93a4d15e71c.jpg?auto=format,compress
-  link: https://www.secretescapes.de/hotel-villa-galeazzi-lake-garda-italy/sale
+  saved: 52
+  expires: 2019/12/02
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/102390/b9cfa0d2_7442_4a87_a3bb_14066735cc1c.jpg?auto=format,compress
+  link: https://www.secretescapes.de/hotel-acquaviva-del-garda-lake-garda-italy/sale
 
-- title: Frühbucher-Special an Kalabriens Götterküste
-  location: Infinity Resort Tropea, Parghelia, Kalabrien, Italien
-  description: Entspannung pur – inkl. Frühstück, Begrüßungsgetränk, Zugang zum Privatstrand & Extras
-  price: 79
+- title: "Spa-Special: Alpenwellness in der Schweiz"
+  location: Tschuggen Grand Hotel, Arosa, Graubünden, Schweiz
+  description: Wintersport und Erholung in Graubünden – inkl. Halbpension, Spa-Zugang & Extras
+  price: 699
   price-description: pro Zimmer pro Nacht
-  saved: 50
-  expires: 2019/11/25
-  image: https://d2g6qre7voj6kv.cloudfront.net/sales/58369/e9d6ac9f_fa4e_4b7f_8fb5_e6f087edaa0d.jpg?auto=format,compress
-  link: https://www.secretescapes.de/infinity-resort-tropea-calabria-italy2/sale
+  saved: 36
+  expires: 2019/12/02
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/99583/9f870013_cffa_46c4_b05b_acca04674e93.jpg?auto=format,compress
+  link: https://www.secretescapes.de/tschuggen-grand-hotel-arosa-switzerland-uk/sale
 
+- title: "Spa-Special: Pure Erholung in den Ostseedünen"
+  location: Strandhotel Dünenmeer, Dierhagen, Mecklenburg-Vorpommern, Deutschland
+  description: Idylle am Meer genießen – inkl. Halbpension, Rasulbad, Spa-Zugang & Extras
+  price: 279
+  price-description: pro Zimmer pro Nacht
+  saved: 24
+  expires: 2019/12/02
+  image: https://d2g6qre7voj6kv.cloudfront.net/sales/105468/c6c23291_6328_46b8_9da4_50c3aafa8aa2.jpg?auto=format,compress
+  link: https://www.secretescapes.de/strandhotel-duenenmeer-dierhagen-germany/sale
 
